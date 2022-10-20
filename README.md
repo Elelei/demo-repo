@@ -1,3 +1,3 @@
 # demo-repo
 
-descriptions.
+descriptions!
