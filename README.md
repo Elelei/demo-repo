@@ -1,3 +1,4 @@
 # demo-repo
 
-descriptions.
+descriptions!
+I am having so much fun learning about git and github
